@@ -7,6 +7,7 @@ By the end of this assignment, you will be able to record a clip of yourself tal
 
 
 I am going to do in this project:
+
 Structure a speech recognition project
 Synthesize and process audio recordings to create train/dev datasets
 Train a trigger word detection model and make predictions
